@@ -1,0 +1,16 @@
+profile: boot
+
+spring:
+  profiles:
+    active: dev
+  application:
+    name: spring-es
+#server config
+server:
+  port: 10420
+  tomcat.uri-encoding: UTF-8
+
+
+
+
+

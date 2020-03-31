@@ -1,0 +1,10 @@
+profile: dev
+
+spring:
+  data:
+    elasticsearch:
+      cluster-nodes: xxxxxxxxxxxxxxx
+      port: 9200
+      user-name: elastic
+      password: 44MzIIFV
+
